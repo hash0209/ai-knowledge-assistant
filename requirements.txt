@@ -1,0 +1,16 @@
+langchain
+openai
+chromadb
+tiktoken
+python-dotenv
+sentence-transformers
+torch
+accelerate
+langchain-community
+langchain-huggingface
+faiss-cpu
+langchain-groq
+streamlit
+unstructured
+python-docx
+pdfplumber

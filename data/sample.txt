@@ -1,0 +1,2 @@
+LangChain is an open-source framework to build applications with LLMs.
+It helps you manage prompts, chains, retrieval, and memory.
